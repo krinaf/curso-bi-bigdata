@@ -1,3 +1,1 @@
 # curso-bi-bigdata
-
-teste
